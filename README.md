@@ -1,26 +1,30 @@
-# Scratch.mit.edu Acc Gen
+:: Scratch.mit.edu Account Generator
 
-- Fast
-- Solver Support
-- Clean Logs
-- by .joman21.
-- 
-# Installation Guide!
+:: Fast and Reliable
+:: Supports Captcha Solvers
+:: Clean and Organized Logs
+:: Created by joman21
 
-- Make Sure Python is Installed
-- You need a capmonster.cloud Api Key with Balance!
+:: -------------------------------------------
+:: Installation Guide
 
-```
+:: Step 1: Ensure Python is installed on your device.
+:: Step 2: You’ll need a CapMonster.cloud API key with available balance.
+
+:: Step 3: Install the required dependencies
 pip install tls_client
 pip install colorama
 pip install requests
-```
-- Make Sure u enter ur capmonster key in utils/solver as the variable : "API_KEY"
 
-# Info 
+:: Step 4: Enter your CapMonster API key in utils/solver.py under the variable "API_KEY"
 
-This is a Func Project i made months Ago, it was one of my Project which i coded to learn Python!
+:: -------------------------------------------
+:: About
 
-THIS CODE DOESNT REFLECT MY CURRENT CODING SKILLS!
+:: I created this project a few months ago as a learning tool while exploring Python.
+:: It’s a fun project that taught me a lot, though it doesn’t reflect my current coding level!
 
-# If u need more Tools (Free) or u have any Errors --> https://discord.gg/NnSWJ2jUy2
+:: If you need more free tools or encounter any issues, feel free to join the Discord support:
+:: https://discord.gg/NnSWJ2jUy2
+
+:: Thanks for using my tool!
