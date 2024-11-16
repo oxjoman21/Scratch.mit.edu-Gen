@@ -1,40 +1,26 @@
-# Erstelle ein neues Verzeichnis für dein Projekt und navigiere hinein
-mkdir mein-projekt
-cd mein-projekt
+# Scratch.mit.edu Acc Gen
 
-# Erstelle die README.md mit Platzhaltern und öffne sie zum Bearbeiten
-echo # Mein Projekt > README.md
-echo. >> README.md
-echo ## Projektbeschreibung >> README.md
-echo *Kurze Beschreibung des Projekts.* >> README.md
-echo. >> README.md
-echo ## Installation >> README.md
-echo *Schritte zur Installation des Projekts.* >> README.md
-echo ```bash >> README.md
-echo # Beispiel für eine Installation >> README.md
-echo git clone https://github.com/benutzername/mein-projekt.git >> README.md
-echo cd mein-projekt >> README.md
-echo ``` >> README.md
-echo. >> README.md
-echo ## Verwendung >> README.md
-echo *Anweisungen zur Verwendung des Projekts.* >> README.md
-echo ```bash >> README.md
-echo # Beispielbefehl >> README.md
-echo node index.js >> README.md
-echo ``` >> README.md
-echo. >> README.md
-echo ## Beitragende >> README.md
-echo - Benutzername1 >> README.md
-echo - Benutzername2 >> README.md
-echo. >> README.md
-echo ## Lizenz >> README.md
-echo *Informationen zur Projektlizenz, falls zutreffend.* >> README.md
+- Fast
+- Solver Support
+- Clean Logs
+- by .joman21.
+- 
+# Installation Guide!
 
-# Initialisiere ein Git-Repository und füge die README.md hinzu
-git init
-git add README.md
-git commit -m "Initialisiere Repository mit Platzhalter-README"
+- Make Sure Python is Installed
+- You need a capmonster.cloud Api Key with Balance!
 
-# Optional: Verbinde das lokale Repository mit GitHub (ersetze die URL mit deiner eigenen)
-git remote add origin https://github.com/benutzername/mein-projekt.git
-git push -u origin main
+```
+pip install tls_client
+pip install colorama
+pip install requests
+```
+- Make Sure u enter ur capmonster key in utils/solver as the variable : "API_KEY"
+
+# Info 
+
+This is a Func Project i made months Ago, it was one of my Project which i coded to learn Python!
+
+THIS CODE DOESNT REFLECT MY CURRENT CODING SKILLS!
+
+# If u need more Tools (Free) or u have any Errors --> https://discord.gg/NnSWJ2jUy2
