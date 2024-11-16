@@ -14,8 +14,11 @@ Installation Guide
 To install the necessary dependencies, run:
 
 pip install tls_client
+
 pip install colorama
+
 pip install requests
+
 
 3. Enter your CapMonster API key in utils/solver.py under the variable "API_KEY".
 
